@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067144611048",
+    "project_id": "logo-commerce",
+    "storage_bucket": "logo-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067144611048:android:76c9f8cbd5430e9d26b55d",
+        "android_client_info": {
+          "package_name": "com.example.logo_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067144611048-6hve2c96liukp1oe25knmaqcea6cvj6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIQHci_D7wKkOkYwETnPcKrN3tBP00fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067144611048-6hve2c96liukp1oe25knmaqcea6cvj6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
